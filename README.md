@@ -100,8 +100,7 @@
 
 ## Home page
 
-<img src=""C:\Users\satya\OneDrive\Desktop\BLA\HealthStack-System\static\images\Project Image\Home page\1.png"" width="50%">
-
+<img src="static/images/Project Image/Home page/1.png" width="50%">
 <img src="/HealthStack-System/static/images/Project Image/Home page/2.png" width="50%">
 
 <img src="/HealthStack-System/static/images/Project Image/Home page/3.png" width="50%">
