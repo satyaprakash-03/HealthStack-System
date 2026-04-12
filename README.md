@@ -145,11 +145,11 @@
 
 ## Pharmacist and Pharmacy
 
-<img src="static/images/Project Image/Pharmacist and Pharmacy/1.png" width="50%">
+<img src="static/images/Project Image/Pharmacist/1.png" width="50%">
 
 ## Medical Shop
 
-<img src="static/images/Project Image/Medical/6.png" width="50%">
+<img src="static/images/Project Image/Medical/1.png" width="50%">
 
 
 # Team Member
