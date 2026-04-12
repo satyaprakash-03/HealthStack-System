@@ -109,7 +109,7 @@
 
 ## Patient
 
-<img src="static/images/Project Image/Home page/1.png" width="50%">
+<img src="static/images/Project Image/Patient/1.png" width="50%">
 
 <img src="static/images/Project Image/Home page/2.png" width="50%">
 
