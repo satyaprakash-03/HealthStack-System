@@ -143,8 +143,6 @@
 
 <img src="static/images/Project Image/Hospital Admin/6.png" width="50%">
 
-
-
 # Team Member
 <img src="" width="75%">
 
