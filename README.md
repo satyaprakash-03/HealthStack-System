@@ -145,7 +145,7 @@
 
 ## Pharmacist and Pharmacy
 
-<img src="static/images/Project Image/Pharmacist/pharma.png" width="50%">
+<img src="static/images/Project Image/Medical Shop/1.png" width="50%">
 
 ## Medical Shop
 
