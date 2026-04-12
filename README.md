@@ -143,13 +143,6 @@
 
 <img src="static/images/Project Image/Hospital Admin/6.png" width="50%">
 
-## Pharmacist and Pharmacy
-
-<img src="static/images/Project Image/Medical Shop/1.png" width="50%">
-
-## Medical Shop
-
-<img src="static/images/Project Image/Medical Shop/medical.png" width="50%">
 
 
 # Team Member
