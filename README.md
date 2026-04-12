@@ -109,19 +109,19 @@
 
 ## Patient
 
+<img src="static/images/Project Image/Home page/1.png" width="50%">
+
+<img src="static/images/Project Image/Home page/2.png" width="50%">
+
 <img src="static/images/Project Image/Home page/3.png" width="50%">
 
-<img src="/HealthStack-System/static/images/Project Image/Patient/2.png" width="50%">
+<img src="static/images/Project Image/Home page/4.png" width="50%">
 
-<img src="/HealthStack-System/static/images/Project Image/Patient/3.png" width="50%">
+<img src="static/images/Project Image/Home page/5.png" width="50%">
 
-<img src="/HealthStack-System/static/images/Project Image/Patient/4.png" width="50%">
+<img src="static/images/Project Image/Home page/6.png" width="50%">
 
-<img src="/HealthStack-System/static/images/Project Image/Patient/5.png" width="50%">
-
-<img src="/HealthStack-System/static/images/Project Image/Patient/6.png" width="50%">
-
-<img src="/HealthStack-System/static/images/Project Image/Patient/7.png" width="50%">
+<img src="static/images/Project Image/Home page/7.png" width="50%">
 
 ## Doctor
 
