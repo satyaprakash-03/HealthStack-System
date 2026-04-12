@@ -92,11 +92,9 @@
             
 
 # MKDocs Documentation, Youtube Video and Presentation
-- [Youtube](https://youtu.be/TSR00OKBSCY) video link of MKDocs documentation on our Healthstack project.
-- [HeathStack Software - Presentation](https://github.com/Jawwad-Fida/HealthStack-System/files/13839586/HeathStack.Software.-.Presentation.pdf)
 - Checkout out the [MKdocs documentation](https://github.com/satyaprakash-03) to see screenshots of our project.
 
-# Some Screenshots
+# Some Project Screenshots
 
 ## Home page
 
@@ -127,41 +125,34 @@
 
 <img src="static/images/Project Image/Doctor/1.png" width="50%">
 
-<img src="/HealthStack-System/static/images/Project Image/Doctor/2.png" width="50%">
+<img src="static/images/Project Image/Doctor/2.png" width="50%">
 
-<img src="/HealthStack-System/static/images/Project Image/Doctor/3.png" width="50%">
+<img src="static/images/Project Image/Doctor/3.png" width="50%">
 
 ## Hospital Admin
 
-<img src="/HealthStack-System/static/images/Project Image/Hospital Admin/1.png" width="50%">
+<img src="static/images/Project Image/Hospital Admin/1.png" width="50%">
 
-<img src="/HealthStack-System/static/images/Project Image/Hospital Admin/2.png" width="50%">
+<img src="static/images/Project Image/Hospital Admin/2.png" width="50%">
 
-<img src="/HealthStack-System/static/images/Project Image/Hospital Admin/3.png" width="50%">
+<img src="static/images/Project Image/Hospital Admin/3.png" width="50%">
 
-<img src="/HealthStack-System/static/images/Project Image/Hospital Admin/4.png" width="50%">
+<img src="static/images/Project Image/Hospital Admin/4.png" width="50%">
 
-<img src="/HealthStack-System/static/images/Project Image/Hospital Admin/5.png" width="50%">
+<img src="static/images/Project Image/Hospital Admin/5.png" width="50%">
+
+<img src="static/images/Project Image/Hospital Admin/6.png" width="50%">
 
 ## Pharmacist and Pharmacy
 
-<img src="" width="50%">
+<img src="static/images/Project Image/Pharmacist and Pharmacy/1.png" width="50%">
 
-<img src="" width="50%">
+## Medical Shop
 
-<img src="" width="50%">
-
-<img src="" width="50%">
-
-### Lab Worker
-
-<img src="" width="50%">
-
-<img src="" width="50%">
+<img src="static/images/Project Image/Medical/6.png" width="50%">
 
 
+# Team Member
+<img src="" width="75%">
 
 
-<img src="https://user-images.githubusercontent.com/64092765/192018455-de998881-ac7e-4082-a8c6-3a36a59aef94.jpg" width="75%">
-
-<img src="https://user-images.githubusercontent.com/64092765/191054866-189bb76f-3377-440a-84be-d07578a26c35.jpg" width="50%">
